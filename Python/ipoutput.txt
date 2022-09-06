@@ -1,0 +1,1 @@
+UP 138.226.156.107 Ping Successful,DOWN 138.226.156.61 Ping Unsuccessful,DOWN 172.16.4.122 Ping Unsuccessful,DOWN 172.16.4.124 Ping Unsuccessful,UP 138.226.156.81 Ping Successful,UP 138.226.156.75 Ping Successful,DOWN 172.16.4.60 Ping Unsuccessful,DOWN 172.16.4.11 Ping Unsuccessful,
